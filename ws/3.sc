@@ -13,6 +13,7 @@ tuples.toMap
 
 val m = Map(1 -> "aaaaa", 2 -> "bb")
 
+m(1)
 m.apply(1)
 
 m.view.mapValues(s => s.length).toMap
