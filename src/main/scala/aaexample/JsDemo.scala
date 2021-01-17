@@ -1,4 +1,4 @@
-package example
+package aaexample
 
 import play.api.libs.json.{
   JsArray,

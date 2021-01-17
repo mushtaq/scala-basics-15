@@ -1,5 +1,5 @@
 
-import example.JsDemo
+import aaexample.JsDemo
 import play.api.libs.json._
 
 val json: JsValue = Json.obj(
